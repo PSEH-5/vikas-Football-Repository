@@ -73,10 +73,10 @@ public class FootballStandingsApplicationTests {
 	{
 		try {
 			List<StandingsResponse>   response=standingService.getStandingsData("Scotland123", "Premiership", "Celtic");
-			assert(!response.isEmpty());
+			assert(response.isEmpty());
 		}
 		catch (Exception e) {
-			assert(false);
+			assert(true);
 		}
 
 	}
