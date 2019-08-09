@@ -1,0 +1,15 @@
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/service/exceptions/standingsExceptionHandler.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/pojo/StandingsResponse.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/pojo/League.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/config/StandingsConfiguration.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/pojo/Country.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/FootballStandingsApplication.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/controller/StandingsController.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/dummy/HelloWorldApplication.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/pojo/StandingsRequest.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/service/StandingsServiceImpl.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/service/exceptions/StandingsException.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/service/StandingsService.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/pojo/ErrorMessage.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/dummy/Greeting.java
+/Users/alpha/Desktop/vikas_backup/Football-Standings/src/main/java/com/football/api/standings/dummy/HelloWorldController.java

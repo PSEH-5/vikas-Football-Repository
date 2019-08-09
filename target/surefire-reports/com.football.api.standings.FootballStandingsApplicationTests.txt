@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.football.api.standings.FootballStandingsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.77 s <<< FAILURE! - in com.football.api.standings.FootballStandingsApplicationTests
+getTeamStandings_InvalidCountryName(com.football.api.standings.FootballStandingsApplicationTests)  Time elapsed: 1.089 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.football.api.standings.FootballStandingsApplicationTests.getTeamStandings_InvalidCountryName(FootballStandingsApplicationTests.java:79)
+
